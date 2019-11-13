@@ -18,7 +18,8 @@
 							, showMetaImage=false
 						)#
 
-                        <cfinclude template="cfsnippets/display_categories-pages_using_vue.cfm" />
+<!---                         <cfinclude template="cfsnippets/display_categories-pages_using_vue.cfm" /> --->
+						<cfinclude template="cfsnippets/display_collection_using_vue.cfm" />
 						
 			    </section>
 				</div><!--- /.row --->

@@ -1,8 +1,8 @@
 
 
-# experiments with Mura.JS / Vue, Mura Display objects
+# Experiments with Mura.JS / Vue, Mura Display objects
 
-### intall CF templates and js code  
+### Install CF templates and js code  
 
 - delete /themes/default/templates
 - copy/clone this project into /themes/default/
